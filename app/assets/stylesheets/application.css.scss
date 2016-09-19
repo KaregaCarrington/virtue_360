@@ -83,24 +83,3 @@ a:hover {
 
 /* media queries */
 
-@media(max-width: 768px){
-  .three-sixty {
-    font-size: 200px;
-    margin-top: 20%;
-  }
-}
-
-@media(max-width: 485px){
-  .three-sixty {
-    font-size: 100px;
-    margin-top: 40%;
-  }
-}
-
-@media(max-width: 990px){
-  .icon {
-    position: relative;
-    left: 35%;
-    margin: auto;
-  }
-}
