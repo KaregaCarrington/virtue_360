@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Virture 360
+Rails app for viewing 360 music videos or concerts
 
-Things you may want to cover:
+Project Goals
+I want to create a web app for viewing concerts in live stream from any device. Preferebly a VR headset for the full immersion experience. At the moment, I have not paid for a server to run live stream, so as a demo, 360 videos are pulled from youtube. You must sign in to have access to viewership, as it is designed to be a paid service in the future.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+How the app works
+Sign in, choose your content and enjoy!
